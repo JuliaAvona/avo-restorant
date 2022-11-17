@@ -217,9 +217,8 @@ section{
 
 .menu .box-container{
    display: grid;
-   grid-template-columns: repeat(auto-fit, 30rem);
-   gap:2rem;
-   align-items: flex-start;
+   grid-template-columns: repeat(auto-fit, 33rem);
+   gap:1.5rem;
    justify-content: center;
 }
 
